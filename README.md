@@ -6,8 +6,8 @@
 The project involves:
 
 - Turn-based logic with Player vs. AI mode, randomized moves that challenge the player and manual or automatic ship positioning
-- Validation & Exception Handling: Ensures proper ship placement (no overlap, within board limits).
-- Stat Tracking: Records successful hits, misses, and total shots.
+- **Validation & Exception Handling**: Ensures proper ship placement (no overlap, within board limits).
+- **Stat Tracking**: Records successful hits, misses, and total shots.
 - Game ported into C++. 
 
 
